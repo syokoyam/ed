@@ -5,7 +5,8 @@ author: Emily Dickinson
 source: Susan G Dickinson's transcription
 ---
 
-- *A - Cap of Lead across
+- * --- 
+- A - Cap of Lead across
 - {:.indent-6}the sky
 - Was tight and sur[e?]ly drawn
 - We could not find the mighty
@@ -19,3 +20,4 @@ source: Susan G Dickinson's transcription
 - {:.indent-6}charms
 - Of Winter and of Hell
 - {:.indent-6}E
+- --- 
