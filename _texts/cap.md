@@ -20,4 +20,4 @@ source: Susan G Dickinson's transcription
 - {:.indent-7}charms
 - Of Winter and of Hell
 - {:.indent-7}E
-- --- 
+- ---- 
