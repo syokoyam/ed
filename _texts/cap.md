@@ -1,3 +1,10 @@
+---
+layout: poem
+title: A - Cap of Lead across the sky
+author: Emily Dickinson
+source: Susan G Dickinson's transcription
+---
+
 *A - Cap of Lead across
    the sky
 Was tight and sur[e?]ly drawn
