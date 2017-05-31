@@ -7,17 +7,17 @@ source: Susan G Dickinson's transcription
 
 - --- 
 - *A - Cap of Lead across
-- {:.indent-6}the sky
+- {:.indent-7}the sky
 - Was tight and sur[e?]ly drawn
 - We could not find the mighty
-- {:.indent-6}Face
+- {:.indent-7}Face
 - The Figure was withdrawn -
-- {:.indent-6}--
+- {:.indent-7}--
 - A chill came up as from
-- {:.indent-6}a shaft
+- {:.indent-7}a shaft
 - Our noon became a well
 - A Thunder storm combines the
-- {:.indent-6}charms
+- {:.indent-7}charms
 - Of Winter and of Hell
-- {:.indent-6}E
+- {:.indent-7}E
 - --- 
