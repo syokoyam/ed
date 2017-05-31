@@ -7,7 +7,7 @@ source: Poetry Foundation
 
 <p class="citation"> by {{ page.author }}</p>
 
-- O Captain! my Captain! our fearful trip is done;[^fn1]
+- O Captain! my Captain! our fearful trip is done;[^banana]
 - The ship has weather’d every rack, the prize we sought is won,
 - The port is near, the bells I hear, the people all exulting,
 - While follow eyes the steady keel, the vessel grim and daring; 
@@ -42,7 +42,7 @@ source: Poetry Foundation
 
 ## Footnotes
 
-[^fn1]: 
+[^banana]: 
 
 	The author had just landed in La Guardia Airport after the flight captain died. All the passengers stood up to applaud the co-pilot. We have it in good authority that the event in question led Yoko Ono to write her "Letter to John":
 
