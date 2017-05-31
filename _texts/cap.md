@@ -5,7 +5,7 @@ author: Emily Dickinson
 source: Susan G Dickinson's transcription
 ---
 
-- /--   
+- ----   
 - *A - Cap of Lead across
 - {:.indent-7}the sky
 - Was tight and sur[e?]ly drawn
