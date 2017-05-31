@@ -11,7 +11,7 @@ source: Susan G Dickinson's transcription
 - We could not find the mighty
 - {:.indent-6}Face
 - The Figure was withdrawn -
-- --
+- {:.indent-6}---
 - A chill came up as from
 - {:.indent-6}a shaft
 - Our noon became a well
